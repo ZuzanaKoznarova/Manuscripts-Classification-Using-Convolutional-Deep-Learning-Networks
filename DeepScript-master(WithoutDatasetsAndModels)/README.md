@@ -4,7 +4,7 @@
 
 ## Configuration
 
-  The files on CD were developed with Python programming language, version
+  The program was developed with Python programming language, version
 3.5.2, with additional libraries Keras, version 1.2.2., that run on Tensorflow
 backend. Use of Keras in version 1.2.2 is obligatory, there is currently a
 bug in later version that brings many difficulties with dimensions ordering
